@@ -1,7 +1,7 @@
 # launchy-highdpi
 A launchy skin designed for high DPI screens
 
-Extract the zip file into your Launchy skins folder. Typically located in "C:\Program Files (x86)\Launchy\skins"
+Download the zip file from the release page and extract the folder into your Launchy skins folder. Typically located in "C:\Program Files (x86)\Launchy\skins"
 
 ![Default Skin](https://i.imgur.com/XRoM0FH.png)
 
